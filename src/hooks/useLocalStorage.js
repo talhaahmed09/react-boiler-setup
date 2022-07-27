@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 import { useState } from "react";
-=======
->>>>>>> 55615ed6118f08ffdf854f9d4811b45170d7d421
 
 // Hook
 function useLocalStorage(key, initialValue) {
